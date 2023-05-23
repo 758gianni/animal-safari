@@ -1,0 +1,20 @@
+Move forward 3 spaces.
+Move back 2 spaces.
+Give one animal away to the other player.
+Move forward 5 spaces.
+Steal one animal from the other player.
+Move back 1 space.
+Give two animals away to the other player.
+Move forward 2 spaces.
+Move back 3 spaces.
+Steal two animals from the other player.
+Move forward 4 spaces.
+Give one animal away to the other player.
+Move back 2 spaces.
+Steal one animal from the other player.
+Move forward 3 spaces.
+Give three animals away to the other player.
+Move back 1 space.
+Move forward 2 spaces.
+Steal one animal from the other player.
+Move back 4 spaces.

@@ -1,0 +1,25 @@
+You receive one random animal: Elephant
+You receive two random animals: Kangaroo and Hippopotamus
+You receive one random animal: Flamingo
+You receive two random animals: Crocodile and Gorilla
+You receive one random animal: Penguin
+You receive two random animals: Zebra and Giraffe
+You receive one random animal: Koala
+You receive two random animals: Lion and Tiger
+You receive one random animal: Chimpanzee
+You receive two random animals: Dolphin and Whale
+You receive one random animal: Panda
+You receive two random animals: Rhino and Hyena
+You receive one random animal: Toucan
+You receive two random animals: Snake and Lizard
+You receive one random animal: Meerkat
+You receive two random animals: Armadillo and Anteater
+You receive one random animal: Peacock
+You receive two random animals: Penguin and Seal
+You receive one random animal: Sloth
+You receive two random animals: Camel and Ostrich
+You receive one random animal: Hedgehog
+You receive two random animals: Fox and Raccoon
+You receive one random animal: Octopus
+You receive two random animals: Crab and Lobster
+You receive one random animal: Platypus
